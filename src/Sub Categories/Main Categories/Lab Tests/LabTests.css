@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+.ip {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: grey;
+    border-radius: 0;
+    font-family: 'Lato',sans-serif;
+    font-weight: bold;
+}
+.ip:focus{
+    box-shadow: none;
+}
+.label{
+    color: #32AEB1;
+    text-transform: uppercase;
+}
+.form-control{
+    padding: 0;
+    font-weight: 200;
+}

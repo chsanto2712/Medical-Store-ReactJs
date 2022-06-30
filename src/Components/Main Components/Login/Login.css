@@ -1,0 +1,19 @@
+.ips {
+    outline: none;
+    border-width: 0 0 0 0;
+    border-color: grey;
+    border-radius: 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.ips {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: grey;
+    font-weight: bold;
+}
+
+.ips:focus {
+    border-color: grey
+}

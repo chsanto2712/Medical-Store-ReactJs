@@ -1,0 +1,96 @@
+.head{
+    background-color: #32aeb1;
+}
+.navbar{
+    padding-bottom: 78px;
+}
+.search-bar{
+    display: flex;
+    padding: 0px 64px 0px 12px;
+    background-color: rgb(24, 26, 27);
+    border-radius: 6px;
+    width: 520px;
+    height: auto;
+}
+.vl{
+    border-right: 1px solid grey;
+    margin-top: 7px;
+    margin-bottom: 2px;
+    height: auto;
+}
+.pin-code{
+    color: rgba(221, 218, 213, 0.5);
+}
+.inp{
+    margin-right: 120px;
+    margin-top: 6px;
+    margin-left: 10px;
+    height: 20px;
+}
+.upload-bill{
+    font-family: LatoSemiBold;
+}
+.p1{
+    color: white;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: small;
+}
+.nav-link{
+    color: aquamarine;
+}
+.inp{
+    border: none;
+    outline:none;
+    background-color: rgb(24, 26, 27);
+}
+.inp:active{
+    border: none;
+    outline:none !important;
+    background-color: rgb(24, 26, 27);
+}
+.nav{
+    position: sticky;
+    top: 50px;
+}
+/* .toggle-button{
+    position: absolute;
+    top: .75rem;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+}
+.toggle-button .bar{
+    height: 3px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+}
+@media(max-width:400px){
+    .toggle-button{
+        display: flex;
+    }
+    .navbar-links{
+        display: none ;
+        width: 100%;
+    }
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .navbar-links ul {
+        flex-direction: column;
+    }
+    .navbar-links li{
+        text-align: center;
+    }
+    .navbar-links li NavLink{
+        padding: .5rem 1rem;
+    }
+    .navbar-links:active{
+        display: flex;
+    }
+} */
