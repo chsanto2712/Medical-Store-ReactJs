@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npx json-server -w Database.json -p 8000`
+
+Runs the Database.json 
+Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
